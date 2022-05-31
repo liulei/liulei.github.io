@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Lei Liu"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Lei Liu"
-description              : &description "Astronomer"
+description              : &description "Astronomer, engineer"
 url                      : https://liulei.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liulei.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Lei Liu"
   avatar           : "profile.png"
-  bio              : "Astronomer"
+  bio              : "Astronomer, engineer"
   location         : "Shanghai, China"
-  employer         : "Shanghai Astronomical Observatory, CAS"
+  employer         : 
   pubmed           : ""
   googlescholar    : ""
   email            : "liulei@shao.ac.cn"
