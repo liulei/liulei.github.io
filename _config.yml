@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Lei Liu"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Astronomer, engineer"
   location         : "Shanghai, China"
   employer         : 
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : "liulei@shao.ac.cn"
   researchgate     : 
   uri              :
