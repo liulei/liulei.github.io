@@ -23,9 +23,15 @@ author_profile: true
 
 ## VLBI technique
 
+- "The Precision Analysis of the Chinese VLBI Network in Probe Delay Measurement", Ting Li, **Lei Liu**, Weimin Zheng, Juan Zhang, 2022, RAA, 22, 035001
+
+- “用于地月空间VLBI的望远镜信号合成增强技术”，吕钢，**刘磊**，张娟，郑为民，童力，2021，中国科学：物理学 力学 天文学，9，51
+
+- “VLBI观测双线极化条纹拟合方法”，黄逸丹, **刘磊**, 舒逢春, 郑为民, 2020，测绘学报，49，423
+
 - “中国VLBI网软件相关处理机测地应用精度分析”，**刘磊**, 郑为民, 张娟, 舒逢春, 童锋贤, 童力, 2017, 测绘学报，46(07): 805-814
 
-- “深空探测器VLBI成图技术研究”，朱珂, 郑为民, 童锋贤, **刘磊**, 2016, 中国科学:物理学 力学 天文学, 2016, (08): 105-113
+- “深空探测器VLBI成图技术研究”，朱珂, 郑为民, 童锋贤, **刘磊**, 2016, 中国科学：物理学 力学 天文学, (08): 105-113
 
 ## Star cluster
 - "A Catalog of Newly Identified Star Clusters in Gaia DR2", **Lei Liu**, Xiaoying Pang, 2019, ApJS, 245, 32
