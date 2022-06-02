@@ -13,7 +13,7 @@ author_profile: true
 
 ## Pulsars & transients
 
-- "VOLKS2: A Transient Search and Localization Pipeline for VLBI Observations", Lei Liu, Zhijun Xu, Zhen Yan, Weimin Zheng, Yidan Huang, Zhong Chen, 2021, AJ, 162, 159
+- "VOLKS2: A Transient Search and Localization Pipeline for VLBI Observations", **Lei Liu**, Zhijun Xu, Zhen Yan, Weimin Zheng, Yidan Huang, Zhong Chen, 2021, AJ, 162, 159
 
 - "The Localization of the Single Pulse in VLBI Observation", **Lei Liu**, Wu Jiang, Weimin Zheng, Zhen Yan, Juan Zhang, Maoli Ma, Wentao Luo, 2019, AJ, 157, 138
 
