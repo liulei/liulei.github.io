@@ -7,53 +7,14 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in astrophysics, University of Science and Technology of China, 2007
+* M.S. in astrophysics, Shanghai Astronomical Observatory, CAS, 2010
+* Ph.D. in astrophysics, Heidelberg University, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2014.2 - 2014.5, visiting scholar, National Astronomical Observatory, CAS
+* 2014.6 - 2018.8, research assistant, Shanghai Astronomical Observatory, CAS
+* 2018.9 - present, senior engineer, Shanghai Astronomical Observatory, CAS
