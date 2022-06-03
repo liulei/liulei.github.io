@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior engineer at department of radio science and technology, Shanghai Astronomical Observatory, CAS. My main research interests are:
+I am a senior engineer at department of radio science and technology, Shanghai Astronomical Observatory, CAS. Although my major is astrophysics during my undergraduate and graduate study, I always think science research should be driven by technology. Therefore, I spend more time on the development of appropriate software tools and pipelines. My main research interests are:
 
 - VLBI technique:
     - Software correlator.
