@@ -1,0 +1,3 @@
+--2022-06-13 14:58:05--  http://www.shao.ac.cn/
+Resolving www.shao.ac.cn (www.shao.ac.cn)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘www.shao.ac.cn’
