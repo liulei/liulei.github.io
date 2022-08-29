@@ -7,7 +7,7 @@ author_profile: true
 
 ## Space VLBI
 
--  "OmniUV: A Multi-Purpose Simulation Toolkit for VLBI Observation", **Lei Liu**, Weimin Zheng, Jian Fu, Zhijun Xu, 2022, accepted for publication in AJ, arXiv:2201.03797
+-  "OmniUV: A Multi-Purpose Simulation Toolkit for VLBI Observation", **Lei Liu**, Weimin Zheng, Jian Fu, Zhijun Xu, 2022, AJ, 164, 67, arXiv:2201.03797
 
 - "The optimization of satellite orbit for Space-VLBI observation", **Lei Liu**, Weimin Zheng, 2021, RAA, 21, 37
 
